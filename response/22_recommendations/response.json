@@ -1,0 +1,3712 @@
+{
+    "cursor": null,
+    "recommendations": [
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 5,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 173697658,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 173697658,
+                "monthlyXp": 517,
+                "name": "Bernardes",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/173697658/uDwCsXMpTt",
+                "totalXp": 30419,
+                "username": "IgorEbaBernardes",
+                "weeklyXp": 14
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 839696112,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 839696112,
+                "monthlyXp": 4866,
+                "name": "Tomoko",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/839696112/i6Ahc2Gswt",
+                "totalXp": 28291,
+                "username": "Tomoko102194",
+                "weeklyXp": 549
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1863568,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 1863568,
+                "monthlyXp": 1239,
+                "name": "Conor",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1863568/hOyI96QM01",
+                "totalXp": 111498,
+                "username": "cwalsh",
+                "weeklyXp": 18
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 386980017,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 386980017,
+                "monthlyXp": 256,
+                "name": "Court",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/386980017/BYQymr9O8b",
+                "totalXp": 21300,
+                "username": "Courtfrances",
+                "weeklyXp": 643
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 322700927,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 322700927,
+                "monthlyXp": 350,
+                "name": "Nana",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/322700927/BiKRSF8hM6",
+                "totalXp": 57057,
+                "username": "Nana07171",
+                "weeklyXp": 320
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 100396129,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 100396129,
+                "monthlyXp": 1365,
+                "name": "Sarah",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/100396129/o0-8cVjJT4",
+                "totalXp": 26110,
+                "username": "tri-sarah-tops",
+                "weeklyXp": 802
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 274104331,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 274104331,
+                "monthlyXp": 1188,
+                "name": "Megu",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/274104331/S9GFCcE1rL",
+                "totalXp": 16623,
+                "username": "MeguMeguMeguChan",
+                "weeklyXp": 586
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35433252,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 35433252,
+                "monthlyXp": 1690,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35433252/bFIB3NdiwY",
+                "totalXp": 25316,
+                "username": "Akkiie",
+                "weeklyXp": 205
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 22,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 22,
+                "monthlyXp": 788,
+                "name": "Bren",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/22/0NFVGXAOfc",
+                "totalXp": 64244,
+                "username": "bren",
+                "weeklyXp": 208
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35426905,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35426905,
+                "monthlyXp": 887,
+                "name": "Aki Ariga",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35426905/U84aAlMmN8",
+                "totalXp": 20703,
+                "username": "chezou",
+                "weeklyXp": 435
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 763138878,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 763138878,
+                "monthlyXp": 778,
+                "name": "Candy",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/763138878/PrFD3oFHVe",
+                "totalXp": 18890,
+                "username": "2VdW4qi4",
+                "weeklyXp": 138
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 298428649,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 298428649,
+                "monthlyXp": 316,
+                "name": "jorge",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/298428649/AtyBR40q82",
+                "totalXp": 28132,
+                "username": "jorgemazal",
+                "weeklyXp": 95
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 16302000,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 16302000,
+                "monthlyXp": 390,
+                "name": "フランク",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/16302000/Aa3TfWdvw_",
+                "totalXp": 40974,
+                "username": "duofranklingo",
+                "weeklyXp": 32
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 19364437,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 19364437,
+                "monthlyXp": 558,
+                "name": "Jackson",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/19364437/LWd25kWTLy",
+                "totalXp": 75859,
+                "username": "jbshuttleworth",
+                "weeklyXp": 67
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 12670686,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 12670686,
+                "monthlyXp": 638,
+                "name": "Chris",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/12670686/_WCqHmGZAa",
+                "totalXp": 86501,
+                "username": "cdjamrozy",
+                "weeklyXp": 544
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 221403125,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 221403125,
+                "monthlyXp": 409,
+                "name": "Lavanya",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/221403125/XQfxZtMy5p",
+                "totalXp": 69715,
+                "username": "littlebitoflav",
+                "weeklyXp": 329
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 762020,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 762020,
+                "monthlyXp": 767,
+                "name": "Natalie Glance",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/762020/6RoEcC7DS2",
+                "totalXp": 170059,
+                "username": "nglance",
+                "weeklyXp": 767
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 173454332,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 173454332,
+                "monthlyXp": 809,
+                "name": "Molly L",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/173454332/-vP3uu6Mlu",
+                "totalXp": 62874,
+                "username": "molly",
+                "weeklyXp": 180
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 14723092,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 14723092,
+                "monthlyXp": 442,
+                "name": "Jon",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/14723092/MkPOqYp7WV",
+                "totalXp": 41351,
+                "username": "jfish3474",
+                "weeklyXp": 115
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35260483,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 35260483,
+                "monthlyXp": 966,
+                "name": "kaori",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 19373,
+                "username": "kaokaos",
+                "weeklyXp": 288
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 190618,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 190618,
+                "monthlyXp": 830,
+                "name": "Antonia",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/190618/iADFJVdupJ",
+                "totalXp": 77000,
+                "username": "erdnuss",
+                "weeklyXp": 45
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 555374397,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 555374397,
+                "monthlyXp": 333,
+                "name": "Osman",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/555374397/pU0RZCUyqZ",
+                "totalXp": 23799,
+                "username": "osmansur",
+                "weeklyXp": 13
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 122962816,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 122962816,
+                "monthlyXp": 340,
+                "name": "Sophie Mackey",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/122962816/0KI1dd51Ij",
+                "totalXp": 44208,
+                "username": "SophieMack8",
+                "weeklyXp": 64
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 213757048,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 213757048,
+                "monthlyXp": 268,
+                "name": "megabark",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/213757048/xhMCeyBoZX",
+                "totalXp": 65023,
+                "username": "MeganBarkerArt",
+                "weeklyXp": 43
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 429313,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 429313,
+                "monthlyXp": 320,
+                "name": "Creston",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/429313/J1iNF7f2iK",
+                "totalXp": 89763,
+                "username": "crebu",
+                "weeklyXp": 256
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 191710097,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 191710097,
+                "monthlyXp": 395,
+                "name": "Bob Meese",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/191710097/Q8ERp9ZL_Y",
+                "totalXp": 73071,
+                "username": "BobMeese",
+                "weeklyXp": 82
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 16782601,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 16782601,
+                "monthlyXp": 144,
+                "name": "Caleb",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/16782601/kUPoDy5a35",
+                "totalXp": 18304,
+                "username": "Calebkuo",
+                "weeklyXp": 144
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 516062898,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": true,
+                "id": 516062898,
+                "monthlyXp": 165,
+                "name": "Maggie",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/516062898/XYQioJ9T-0",
+                "totalXp": 31879,
+                "username": "9mmMags",
+                "weeklyXp": 19
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 686445822,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 686445822,
+                "monthlyXp": 110,
+                "name": "Chenglai Huang",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/686445822/enwzaH6Lyz",
+                "totalXp": 1886,
+                "username": "GreatLL",
+                "weeklyXp": 110
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 97197056,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 97197056,
+                "monthlyXp": 422,
+                "name": "Peter",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/97197056/nkn24_LXxs",
+                "totalXp": 95232,
+                "username": "LaunchBreak",
+                "weeklyXp": 143
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 330497173,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 330497173,
+                "monthlyXp": 438,
+                "name": "Tina",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/330497173/xOm_8Gso-F",
+                "totalXp": 41308,
+                "username": "TinaWu98",
+                "weeklyXp": 129
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 59192169,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 59192169,
+                "monthlyXp": 370,
+                "name": "Yash",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/59192169/QThwdmjQ3i",
+                "totalXp": 67046,
+                "username": "yashpatel7",
+                "weeklyXp": 45
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 7993411,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 7993411,
+                "monthlyXp": 407,
+                "name": "Aleksandr Gusev",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/7993411/TxXgmDXacI",
+                "totalXp": 23594,
+                "username": "sanekgusev",
+                "weeklyXp": 70
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 5210165,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 5210165,
+                "monthlyXp": 464,
+                "name": "Matt",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/5210165/nOuRRfoA_B",
+                "totalXp": 26688,
+                "username": "Luomai7",
+                "weeklyXp": 464
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 273391298,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 273391298,
+                "monthlyXp": 272,
+                "name": "Jeff Tous",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/273391298/lP-o8pboyO",
+                "totalXp": 40678,
+                "username": "JeffTous",
+                "weeklyXp": 64
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 398262965,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 398262965,
+                "monthlyXp": 320,
+                "name": "Yena",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/398262965/OPCIQKJ7j1",
+                "totalXp": 50569,
+                "username": "llenapark",
+                "weeklyXp": 35
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 5335127,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 5335127,
+                "monthlyXp": 301,
+                "name": "Darth Duo",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/5335127/KPKwdrljGz",
+                "totalXp": 44822,
+                "username": "DarthDuo",
+                "weeklyXp": 301
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 332574397,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 332574397,
+                "monthlyXp": 447,
+                "name": "Luis",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/332574397/oXkLeTtxdN",
+                "totalXp": 77822,
+                "username": "LuisvonAhnFrench",
+                "weeklyXp": 45
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 265780002,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 265780002,
+                "monthlyXp": 318,
+                "name": "Justin",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/265780002/F5gRoN_Zgh",
+                "totalXp": 54577,
+                "username": "JustinSensei",
+                "weeklyXp": 233
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 533407,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 533407,
+                "monthlyXp": 706,
+                "name": "l",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/533407/fAJgOHfjDl",
+                "totalXp": 134402,
+                "username": "lbilsky",
+                "weeklyXp": 472
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 357062,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 357062,
+                "monthlyXp": 91,
+                "name": "Natalia",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/357062/YixHEPeoRb",
+                "totalXp": 140164,
+                "username": "nati",
+                "weeklyXp": 91
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 475970082,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 475970082,
+                "monthlyXp": 207,
+                "name": "Mary",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/475970082/E7fESAZIkC",
+                "totalXp": 32903,
+                "username": "maryvanog",
+                "weeklyXp": 48
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 200784739,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 200784739,
+                "monthlyXp": 220,
+                "name": "Michaela",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/200784739/Qrttw-Eplm",
+                "totalXp": 86916,
+                "username": "MichaelaKron",
+                "weeklyXp": 24
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 388857716,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 388857716,
+                "monthlyXp": 440,
+                "name": "Dre Ficerai",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/388857716/mVNaa8EZ9Z",
+                "totalXp": 35015,
+                "username": "DoctaDre7",
+                "weeklyXp": 30
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 5,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 5,
+                "monthlyXp": 227,
+                "name": "Severin Hacker",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/5/75w-bBi7sX",
+                "totalXp": 50830,
+                "username": "severin",
+                "weeklyXp": 32
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 4751,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 4751,
+                "monthlyXp": 341,
+                "name": "None",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/4751/bForXSDuy1",
+                "totalXp": 78324,
+                "username": "mburroug",
+                "weeklyXp": 20
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 325609601,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 325609601,
+                "monthlyXp": 568,
+                "name": "Carl Gottlieb",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/325609601/JfPuJCEDnB",
+                "totalXp": 29981,
+                "username": "carlgottliebdpo",
+                "weeklyXp": 27
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 98120548,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 98120548,
+                "monthlyXp": 387,
+                "name": "Elisabeth Finkel",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/98120548/GayKYXgTZ6",
+                "totalXp": 20007,
+                "username": "EFinkel",
+                "weeklyXp": 59
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 21078970,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 21078970,
+                "monthlyXp": 220,
+                "name": "Bing Gordon",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/21078970/jfmmP3_YUT",
+                "totalXp": 16526,
+                "username": "Bingfish",
+                "weeklyXp": 15
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 64946347,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 64946347,
+                "monthlyXp": 222,
+                "name": "Cindy Blanco",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/64946347/mct6nQiDm3",
+                "totalXp": 102744,
+                "username": "CindyB_PhD",
+                "weeklyXp": 33
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 664722641,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 664722641,
+                "monthlyXp": 231,
+                "name": "Ben Reuveni",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/664722641/hh7-10MBxC",
+                "totalXp": 15922,
+                "username": "Ben.Reuveni",
+                "weeklyXp": 33
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 65494655,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 65494655,
+                "monthlyXp": 222,
+                "name": "Sean Colombo",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/65494655/CNFDtJswU-",
+                "totalXp": 60589,
+                "username": "SeanColombo",
+                "weeklyXp": 59
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 2946076,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 2946076,
+                "monthlyXp": 205,
+                "name": "Art Chaidarun",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/2946076/yfaCFNEsJG",
+                "totalXp": 161823,
+                "username": "artnc",
+                "weeklyXp": 10
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 23310,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 23310,
+                "monthlyXp": 364,
+                "name": "David Klionsky",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/23310/G29HMBeqng",
+                "totalXp": 27841,
+                "username": "DavidK",
+                "weeklyXp": 20
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 104501,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 104501,
+                "monthlyXp": 246,
+                "name": "Kenton",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/104501/ROT-rSLeZS",
+                "totalXp": 58820,
+                "username": "ktown",
+                "weeklyXp": 40
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 4773,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 4773,
+                "monthlyXp": 212,
+                "name": "Ryan",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/4773/WKUBagtMCU",
+                "totalXp": 28000,
+                "username": "munsonutah",
+                "weeklyXp": 23
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 3,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 29873378,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 29873378,
+                "monthlyXp": 71,
+                "name": "Rezz",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/29873378/WUUktW4Sj7",
+                "totalXp": 6493,
+                "username": "Reabb",
+                "weeklyXp": 71
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 21312543,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 21312543,
+                "monthlyXp": 1512,
+                "name": "Albert",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/21312543/zEe-tka0Qo",
+                "totalXp": 50661,
+                "username": "Albert248",
+                "weeklyXp": 63
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 55787113,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 55787113,
+                "monthlyXp": 139,
+                "name": "Chris",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/55787113/Ke-Xw3Xo4T",
+                "totalXp": 45292,
+                "username": "cbrust",
+                "weeklyXp": 20
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 581646496,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 581646496,
+                "monthlyXp": 337,
+                "name": "Eva",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/581646496/g4TJ5ll9MN",
+                "totalXp": 26687,
+                "username": "EvaRaimond",
+                "weeklyXp": 46
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 151991639,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 151991639,
+                "monthlyXp": 663,
+                "name": "Collin McHale",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/151991639/9yKiTZjTpN",
+                "totalXp": 51718,
+                "username": "CollinMcHale",
+                "weeklyXp": 33
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 180406349,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 180406349,
+                "monthlyXp": 212,
+                "name": "Jonathan",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/180406349/29XSNVE0hd",
+                "totalXp": 14525,
+                "username": "jonathanburket",
+                "weeklyXp": 78
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 344227660,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 344227660,
+                "monthlyXp": 237,
+                "name": "Michael H",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/344227660/zQWREYX4Xo",
+                "totalXp": 24230,
+                "username": "MichaelH_",
+                "weeklyXp": 10
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 954476,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 954476,
+                "monthlyXp": 247,
+                "name": "Z Shan",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/954476/zwofXG0Xwn",
+                "totalXp": 71706,
+                "username": "Z.Shan",
+                "weeklyXp": 13
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 31577311,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 31577311,
+                "monthlyXp": 194,
+                "name": "Max Tower",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/31577311/VDS5ihzHUt",
+                "totalXp": 29258,
+                "username": "MaxTower1",
+                "weeklyXp": 21
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 115607053,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 115607053,
+                "monthlyXp": 149,
+                "name": "John",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/115607053/dXOLqSfiKe",
+                "totalXp": 23987,
+                "username": "JohnTrivelli",
+                "weeklyXp": 17
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1254121,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 1254121,
+                "monthlyXp": 28,
+                "name": "andrekhorie",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1254121/YEywVN7QQy",
+                "totalXp": 54273,
+                "username": "andrekhorie",
+                "weeklyXp": 28
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 520616228,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 520616228,
+                "monthlyXp": 125,
+                "name": "Doris ドリス",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/520616228/K-1jmGSkNp",
+                "totalXp": 24627,
+                "username": "Dorishcc",
+                "weeklyXp": 12
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35379718,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35379718,
+                "monthlyXp": 148,
+                "name": "HAMANO Atsushi",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35379718/HWoD7wlmMJ",
+                "totalXp": 10608,
+                "username": "HamanoAtsushi",
+                "weeklyXp": 107
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 553411975,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 553411975,
+                "monthlyXp": 20,
+                "name": "Martin",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/553411975/9n0CE8ZMHF",
+                "totalXp": 19798,
+                "username": "chu_on_it",
+                "weeklyXp": 20
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 194829322,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 194829322,
+                "monthlyXp": 262,
+                "name": "Cem Kansu",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/194829322/8y1y5c5hI6",
+                "totalXp": 70413,
+                "username": "cem",
+                "weeklyXp": 18
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 440844287,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 440844287,
+                "monthlyXp": 14,
+                "name": "Monroe",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/440844287/K1yqSmBRPk",
+                "totalXp": 1311,
+                "username": "monrowl",
+                "weeklyXp": 14
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1652339,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 1652339,
+                "monthlyXp": 107,
+                "name": "Gregory Hartman",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1652339/81JDkl9GPi",
+                "totalXp": 14257,
+                "username": "gregoryhartman",
+                "weeklyXp": 15
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 4584428,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 4584428,
+                "monthlyXp": 678,
+                "name": "Lisa Frumkes",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/4584428/4A4Y2p5MBG",
+                "totalXp": 33830,
+                "username": "lfrumkes",
+                "weeklyXp": 243
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 8524212,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 8524212,
+                "monthlyXp": 1990,
+                "name": "Connor Brem",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/8524212/TXoYmBDICW",
+                "totalXp": 8029,
+                "username": "connorbrem",
+                "weeklyXp": 994
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 245227454,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 245227454,
+                "monthlyXp": 3316,
+                "name": "Laura Tomokiyo",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 4011,
+                "username": "LauraTomok",
+                "weeklyXp": 958
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 199062511,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 199062511,
+                "monthlyXp": 1149,
+                "name": "Eliana Sánchez",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/199062511/XkblIgRJ8I",
+                "totalXp": 49282,
+                "username": "natalia.sabillon",
+                "weeklyXp": 387
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 15866341,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 15866341,
+                "monthlyXp": 843,
+                "name": "Abi",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/15866341/acS8unCEX3",
+                "totalXp": 39875,
+                "username": "abi",
+                "weeklyXp": 105
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 135838466,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 135838466,
+                "monthlyXp": 112,
+                "name": "pranj",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/135838466/n0gxkUKByz",
+                "totalXp": 10724,
+                "username": "PranjR",
+                "weeklyXp": 100
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 24967039,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 24967039,
+                "monthlyXp": 90,
+                "name": "Amanda Dianne",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/24967039/wv8-8NK6p9",
+                "totalXp": 62134,
+                "username": "amandadianne",
+                "weeklyXp": 90
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 85992463,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 85992463,
+                "monthlyXp": 2952,
+                "name": "Jack He",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/85992463/77I-VJiSfI",
+                "totalXp": 43179,
+                "username": "Jackhe96",
+                "weeklyXp": 80
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 158368460,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 158368460,
+                "monthlyXp": 64,
+                "name": "Karisloo",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/158368460/42OOxL6GEo",
+                "totalXp": 11902,
+                "username": "Karisloo",
+                "weeklyXp": 64
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 394249682,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 394249682,
+                "monthlyXp": 3788,
+                "name": "AJ",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/394249682/4djt6lnosW",
+                "totalXp": 55378,
+                "username": "aj.noh",
+                "weeklyXp": 45
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 3521926,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 3521926,
+                "monthlyXp": 2054,
+                "name": "David Andrews",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/3521926/KV2ceRs0uw",
+                "totalXp": 24720,
+                "username": "a_david",
+                "weeklyXp": 43
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 350148009,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 350148009,
+                "monthlyXp": 1029,
+                "name": "Stephanie",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/350148009/oWE2QuRx8e",
+                "totalXp": 36529,
+                "username": "zhusteph",
+                "weeklyXp": 30
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1678924,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 1678924,
+                "monthlyXp": 27,
+                "name": "Beth",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1678924/gM0wdUiWlP",
+                "totalXp": 6798,
+                "username": "justbeth",
+                "weeklyXp": 27
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 27159841,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 27159841,
+                "monthlyXp": 588,
+                "name": "Jairo de Lima",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/27159841/rY0YTOvH1d",
+                "totalXp": 4087,
+                "username": "JairodeLima",
+                "weeklyXp": 26
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 512049679,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 512049679,
+                "monthlyXp": 20,
+                "name": "Lucinda",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/512049679/QAW7rkcurH",
+                "totalXp": 6278,
+                "username": "Lucinda709",
+                "weeklyXp": 20
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 215821895,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 215821895,
+                "monthlyXp": 17,
+                "name": "Bobby Finnegan",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/215821895/J9hIwgikvt",
+                "totalXp": 13329,
+                "username": "BobbyFinnegan",
+                "weeklyXp": 17
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1280054,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 1280054,
+                "monthlyXp": 5,
+                "name": "Zan",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1280054/5N9PMFDPbq",
+                "totalXp": 36623,
+                "username": "zan",
+                "weeklyXp": 5
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 605332,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 605332,
+                "monthlyXp": 15,
+                "name": "Jay",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/605332/wwpaueCJSq",
+                "totalXp": 24622,
+                "username": "fanelli",
+                "weeklyXp": 15
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 256871507,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 256871507,
+                "monthlyXp": 14,
+                "name": "Jenna",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/256871507/Zxj-PLNrcs",
+                "totalXp": 26942,
+                "username": "jennaveebe",
+                "weeklyXp": 14
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 330486311,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 330486311,
+                "monthlyXp": 66,
+                "name": "Daniel The Magnificent",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/330486311/ahXWhFkXy9",
+                "totalXp": 136456,
+                "username": "dfala",
+                "weeklyXp": 40
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 41638666,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 41638666,
+                "monthlyXp": 54,
+                "name": "Lauren Kurtz",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/41638666/KJpQ3QyZRu",
+                "totalXp": 49843,
+                "username": "lauren",
+                "weeklyXp": 54
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 15316126,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 15316126,
+                "monthlyXp": 12,
+                "name": "Chris 克里斯",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/15316126/yfsNkoqPYF",
+                "totalXp": 74440,
+                "username": "cdntr",
+                "weeklyXp": 12
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 19245,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 19245,
+                "monthlyXp": 10,
+                "name": "Bill McDowell",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/19245/tnzDko1S-R",
+                "totalXp": 36862,
+                "username": "forkunited",
+                "weeklyXp": 10
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 113466206,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 113466206,
+                "monthlyXp": 587,
+                "name": "和江（かずえ）",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/113466206/w8d0ZASFkJ",
+                "totalXp": 26043,
+                "username": "kazue13",
+                "weeklyXp": 24
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 257764128,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 257764128,
+                "monthlyXp": 0,
+                "name": "Виталий",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/257764128/7sRSaCYsy8",
+                "totalXp": 17216,
+                "username": "vloboda",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 106076688,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 106076688,
+                "monthlyXp": 0,
+                "name": "James",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/106076688/BK5n7w8_d4",
+                "totalXp": 15475,
+                "username": "thewind27",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 22951816,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 22951816,
+                "monthlyXp": 0,
+                "name": "Adriana Araújo",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/22951816/TejEldckBN",
+                "totalXp": 12515,
+                "username": "Adriana8Angel",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 123703136,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 123703136,
+                "monthlyXp": 0,
+                "name": "Iawesome2 GD",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/123703136/RjQYJbwCgs",
+                "totalXp": 8416,
+                "username": "Iawesome2--GD",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 269058647,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 269058647,
+                "monthlyXp": 0,
+                "name": "banair",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/269058647/jA-lAb6rr2",
+                "totalXp": 5187,
+                "username": "banair",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 137323135,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 137323135,
+                "monthlyXp": 0,
+                "name": "エト左志木",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/137323135/oKXQr5xoHA",
+                "totalXp": 4929,
+                "username": "SanasukeKaneki",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 167689113,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 167689113,
+                "monthlyXp": 0,
+                "name": "Murat",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/167689113/YHfhK0eOw3",
+                "totalXp": 4335,
+                "username": "murattarik01",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 136495374,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 136495374,
+                "monthlyXp": 0,
+                "name": "Raf",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/136495374/1QfaWPgsxb",
+                "totalXp": 2280,
+                "username": "Rafouto2004",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 229357521,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 229357521,
+                "monthlyXp": 0,
+                "name": "SANTOSH JEEVAN BHARWAD",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/229357521/hDQqGVCjdP",
+                "totalXp": 2144,
+                "username": "santosh.bharwad",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 2,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 434714919,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 434714919,
+                "monthlyXp": 70,
+                "name": "Piglet",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/434714919/8aU3vBSdiz",
+                "totalXp": 950,
+                "username": "kudos_0012",
+                "weeklyXp": 70
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 400734539,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 400734539,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 860,
+                "username": "J1cl4",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 187496943,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 187496943,
+                "monthlyXp": 0,
+                "name": "cecile",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 530,
+                "username": "cecile.bro2000",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 179076422,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 179076422,
+                "monthlyXp": 0,
+                "name": "eduardo duarte",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/179076422/cv2CG3lcvQ",
+                "totalXp": 490,
+                "username": "eduardoduarte8",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 153559169,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 153559169,
+                "monthlyXp": 0,
+                "name": "Demetria Tvonne Nicholas",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/153559169/QHpkMVAEd6",
+                "totalXp": 480,
+                "username": "princessdemonica",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 156717516,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 156717516,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/156717516/Im2axNHTb1",
+                "totalXp": 368,
+                "username": "Armando140918",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 129809007,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 129809007,
+                "monthlyXp": 0,
+                "name": "Thomas cherbonnel",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/129809007/nwG2JEaEYS",
+                "totalXp": 150,
+                "username": "Cherbonnelmignon",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 2,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 22345134,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 22345134,
+                "monthlyXp": 0,
+                "name": "Nicole Harris",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 13,
+                "username": "Nicole_Harris",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 137802874,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 137802874,
+                "monthlyXp": 2141,
+                "name": "Louise",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/137802874/a9YB_yV83G",
+                "totalXp": 47436,
+                "username": "Louise861254",
+                "weeklyXp": 2141
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1753682,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 1753682,
+                "monthlyXp": 15715,
+                "name": "San",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1753682/SycyqIuleG",
+                "totalXp": 55978,
+                "username": "san",
+                "weeklyXp": 541
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 48350915,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 48350915,
+                "monthlyXp": 995,
+                "name": "Kai Loh",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/48350915/jG7FAcuWIQ",
+                "totalXp": 11037,
+                "username": "KaiLoh",
+                "weeklyXp": 391
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 511860,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 511860,
+                "monthlyXp": 372,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/511860/xwoDTlNbCe",
+                "totalXp": 559,
+                "username": "hunterhector",
+                "weeklyXp": 372
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 339403062,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 339403062,
+                "monthlyXp": 1391,
+                "name": "Renée",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/339403062/BPHCXDU9ao",
+                "totalXp": 9845,
+                "username": "rharke",
+                "weeklyXp": 370
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 22121292,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 22121292,
+                "monthlyXp": 500,
+                "name": "Tommy Wang",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/22121292/S7Ed0HLKEE",
+                "totalXp": 36256,
+                "username": "sharkieva",
+                "weeklyXp": 250
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 4,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 4,
+                "monthlyXp": 1278,
+                "name": "Tony",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/4/rlMJjH_Quo",
+                "totalXp": 26037,
+                "username": "tony",
+                "weeklyXp": 190
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 28399149,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 28399149,
+                "monthlyXp": 272,
+                "name": "Ryan C.",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/28399149/-7F7WRNOMa",
+                "totalXp": 21633,
+                "username": "ochancoco191",
+                "weeklyXp": 126
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 385267,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 385267,
+                "monthlyXp": 1636,
+                "name": "Linh",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/385267/And6pHBGsX",
+                "totalXp": 21068,
+                "username": "thuylinh",
+                "weeklyXp": 105
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 234813081,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 234813081,
+                "monthlyXp": 13,
+                "name": "Jeremy Matula",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/234813081/yyzDtm12xT",
+                "totalXp": 28966,
+                "username": "J_Mats",
+                "weeklyXp": 102
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 451085025,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 451085025,
+                "monthlyXp": 150,
+                "name": "hidekitest",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 204,
+                "username": "hideki81",
+                "weeklyXp": 90
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 219217917,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 219217917,
+                "monthlyXp": 240,
+                "name": "Pat",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/219217917/7N97QI9sVj",
+                "totalXp": 74104,
+                "username": "pat_duolingo",
+                "weeklyXp": 83
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "_thats_a_bingoさんがフォロー中",
+            "userId": 7958690,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 7958690,
+                "monthlyXp": 54,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/7958690/BOToMmrrkJ",
+                "totalXp": 1349,
+                "username": "erica_pies",
+                "weeklyXp": 82
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 2200982,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 2200982,
+                "monthlyXp": 80,
+                "name": "Itai",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/2200982/vVCSQDWqWZ",
+                "totalXp": 28489,
+                "username": "itai",
+                "weeklyXp": 80
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 56905583,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 56905583,
+                "monthlyXp": 62,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/56905583/wH2IheBHbp",
+                "totalXp": 5437,
+                "username": "eliteelise",
+                "weeklyXp": 62
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1907754,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 1907754,
+                "monthlyXp": 45,
+                "name": "Alec",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1907754/iD5-KQcOUA",
+                "totalXp": 24272,
+                "username": "Ratby",
+                "weeklyXp": 45
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 49439323,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 49439323,
+                "monthlyXp": 43,
+                "name": "Jack Morgan",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/49439323/8HelqlQW8y",
+                "totalXp": 22014,
+                "username": "jack",
+                "weeklyXp": 43
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 19267510,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 19267510,
+                "monthlyXp": 40,
+                "name": "Lowell",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/19267510/JbpGRFuO9V",
+                "totalXp": 48457,
+                "username": "LowellReade",
+                "weeklyXp": 40
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35405928,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35405928,
+                "monthlyXp": 39,
+                "name": "Yoshiaki Tobioka",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35405928/V1xxLqxTZU",
+                "totalXp": 250,
+                "username": "yosiaki6",
+                "weeklyXp": 39
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 95731546,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 95731546,
+                "monthlyXp": 30,
+                "name": "klinton",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 7997,
+                "username": "klintonek",
+                "weeklyXp": 30
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 29348,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 29348,
+                "monthlyXp": 15,
+                "name": "bin",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/29348/dxm7DEavWR",
+                "totalXp": 3210,
+                "username": "berniefu",
+                "weeklyXp": 30
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 130866006,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 130866006,
+                "monthlyXp": 164,
+                "name": "Bill",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/130866006/55qd2YH-Wo",
+                "totalXp": 19226,
+                "username": "Bill328072",
+                "weeklyXp": 28
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 600572203,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 600572203,
+                "monthlyXp": 28,
+                "name": "123456789012345678901234567890",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 257,
+                "username": "NxZNcn5B",
+                "weeklyXp": 28
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 32336947,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 32336947,
+                "monthlyXp": 28,
+                "name": "Masanori Kusunoki",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/32336947/CyI-3nbzgq",
+                "totalXp": 135,
+                "username": "masanork",
+                "weeklyXp": 28
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 1907646,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 1907646,
+                "monthlyXp": 113,
+                "name": "Caitlin",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/1907646/9Qewm4NEMd",
+                "totalXp": 39288,
+                "username": "Parakeet",
+                "weeklyXp": 26
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 26200342,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 26200342,
+                "monthlyXp": 492,
+                "name": "finalvent",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/26200342/EIistWooE_",
+                "totalXp": 102624,
+                "username": "finalvent",
+                "weeklyXp": 20
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 2380544,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 2380544,
+                "monthlyXp": 215,
+                "name": "Satoru Inoue",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 81732,
+                "username": "inoueian",
+                "weeklyXp": 20
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 160465455,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 160465455,
+                "monthlyXp": 21,
+                "name": "Vanessa Jameson",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/160465455/Gg9KKmwUnM",
+                "totalXp": 24134,
+                "username": "vanessamjameson",
+                "weeklyXp": 21
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 37063,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 37063,
+                "monthlyXp": 15,
+                "name": "Tyler Murphy",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/37063/7zZ-y5skMr",
+                "totalXp": 18814,
+                "username": "tylrmurphy",
+                "weeklyXp": 15
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 10868382,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 10868382,
+                "monthlyXp": 15,
+                "name": "David",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/10868382/2feDiYcwe8",
+                "totalXp": 2751,
+                "username": "dkornberg",
+                "weeklyXp": 15
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 288283957,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 288283957,
+                "monthlyXp": 28,
+                "name": "Lizn",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/288283957/DbRbjslZuI",
+                "totalXp": 25080,
+                "username": "LizNagler1",
+                "weeklyXp": 14
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 104911,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 104911,
+                "monthlyXp": 14,
+                "name": "Tatsuya Ishihara",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/104911/beWxJSSVwx",
+                "totalXp": 2438,
+                "username": "tisihara",
+                "weeklyXp": 14
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 24,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 24,
+                "monthlyXp": 80,
+                "name": "hector",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/24/Emfbasp0gA",
+                "totalXp": 29976,
+                "username": "hector",
+                "weeklyXp": 13
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 52149973,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 52149973,
+                "monthlyXp": 13,
+                "name": "Elis Horie",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/52149973/JwBXpjUIuA",
+                "totalXp": 20150,
+                "username": "elishorie",
+                "weeklyXp": 13
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 435631973,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 435631973,
+                "monthlyXp": 12,
+                "name": "S Colombo Test",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/435631973/teYbyrd8GT",
+                "totalXp": 2524,
+                "username": "SanchoColo",
+                "weeklyXp": 12
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 668383,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 668383,
+                "monthlyXp": 30,
+                "name": "Burr",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/668383/uphivHE6Ne",
+                "totalXp": 42731,
+                "username": "tatou",
+                "weeklyXp": 10
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 2299940,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 2299940,
+                "monthlyXp": 10,
+                "name": "Junya Ogino",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/2299940/nbYhmOOfhu",
+                "totalXp": 2479,
+                "username": "ogijun",
+                "weeklyXp": 10
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 107745044,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 107745044,
+                "monthlyXp": 0,
+                "name": "Aya Demler",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/107745044/nXqd-2rwbK",
+                "totalXp": 23824,
+                "username": "ademler",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 904639,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 904639,
+                "monthlyXp": 0,
+                "name": "brooke",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/904639/568p4ntpG-",
+                "totalXp": 18973,
+                "username": "bchan",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 807709,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 807709,
+                "monthlyXp": 0,
+                "name": "David HD",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/807709/ieq5pmCr2B",
+                "totalXp": 18497,
+                "username": "dhdaines",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 13500226,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 13500226,
+                "monthlyXp": 0,
+                "name": "Aram Ebtekar",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/13500226/8C5MjeWDfk",
+                "totalXp": 12722,
+                "username": "AramEbteka1",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 245223066,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 245223066,
+                "monthlyXp": 0,
+                "name": "Makoto Tomokiyo",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/245223066/wY0RUsz-9Z",
+                "totalXp": 10308,
+                "username": "MakotoTomo2",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35442030,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35442030,
+                "monthlyXp": 0,
+                "name": "Kentaro Mitsui",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35442030/cLD8MWx-po",
+                "totalXp": 10141,
+                "username": "KentaroMitsui",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 13594481,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 13594481,
+                "monthlyXp": 0,
+                "name": "Awaneesh Verma",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/13594481/nY6YLJvY14",
+                "totalXp": 7202,
+                "username": ".AV",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 3,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 3,
+                "monthlyXp": 0,
+                "name": "Vicki",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/3/RJfK0ci9fH",
+                "totalXp": 6803,
+                "username": "vicki",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 25084,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 25084,
+                "monthlyXp": 0,
+                "name": "Jerome",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/25084/o8V3QB8SWt",
+                "totalXp": 6354,
+                "username": "jerome056",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35130853,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35130853,
+                "monthlyXp": 0,
+                "name": "ishida",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35130853/-DKaRd7XqQ",
+                "totalXp": 3853,
+                "username": "ishidak",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 25062504,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 25062504,
+                "monthlyXp": 0,
+                "name": "Riyo Ogushi",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/25062504/cgYm1xvjCv",
+                "totalXp": 2750,
+                "username": "riyog",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 385585,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 385585,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/385585/z59r1XTE-G",
+                "totalXp": 2684,
+                "username": "kertrats",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35381118,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35381118,
+                "monthlyXp": 0,
+                "name": "Ryo Katsuma",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35381118/gE5naeC-hI",
+                "totalXp": 2530,
+                "username": "ryo_katsuma",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 177,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 177,
+                "monthlyXp": 0,
+                "name": "Jason Adams",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/177/HT8-1ZFuBq",
+                "totalXp": 2317,
+                "username": "ealdent",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 14543247,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 14543247,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 2249,
+                "username": "DMeinert",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 49164476,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 49164476,
+                "monthlyXp": 0,
+                "name": "Hiro",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/49164476/Py-y6aIb7T",
+                "totalXp": 2150,
+                "username": "hiroberry",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 67672484,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 67672484,
+                "monthlyXp": 0,
+                "name": "Test User",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/67672484/FxXospkoy1",
+                "totalXp": 2125,
+                "username": "hidekitest",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 17715,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 17715,
+                "monthlyXp": 0,
+                "name": "Tim",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/17715/HXAlOsZyA8",
+                "totalXp": 1947,
+                "username": "tandrianoff",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 51341103,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 51341103,
+                "monthlyXp": 0,
+                "name": "Kana Shimizu",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 1946,
+                "username": "KanaShimizu",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 18158841,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 18158841,
+                "monthlyXp": 0,
+                "name": "Pang Wangshu",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/18158841/h2ZovsqGZR",
+                "totalXp": 1869,
+                "username": "wpang",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "_thats_a_bingoさんがフォロー中",
+            "userId": 8237972,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 8237972,
+                "monthlyXp": 0,
+                "name": "Deanna Kristin Lavelle",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/8237972/pfLcZgYEZq",
+                "totalXp": 1731,
+                "username": "deanna.lav",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 81,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 81,
+                "monthlyXp": 0,
+                "name": "Randy",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/81/RSFfOYbMyQ",
+                "totalXp": 1476,
+                "username": "rebryant",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 42078200,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 42078200,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 1433,
+                "username": "200.3ZHiLaSY2688",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 19046999,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 19046999,
+                "monthlyXp": 0,
+                "name": "Masato Uegaki",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/19046999/jPyxwgXZaR",
+                "totalXp": 1338,
+                "username": "gakkie",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "_thats_a_bingoさんがフォロー中",
+            "userId": 14908464,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 14908464,
+                "monthlyXp": 0,
+                "name": "Lauren Tenaglia",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/14908464/v4LZx5zwKZ",
+                "totalXp": 1292,
+                "username": "LaurenTenaglia",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 75267,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 75267,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/75267/pAV_aRzm6q",
+                "totalXp": 1246,
+                "username": "wewuyi",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 554082260,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 554082260,
+                "monthlyXp": 0,
+                "name": "李姉妹ch",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/554082260/KEVDGhZwKs",
+                "totalXp": 1086,
+                "username": "lisisters",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 100776,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 100776,
+                "monthlyXp": 0,
+                "name": "Narges",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/100776/IT2XtZOUP4",
+                "totalXp": 1018,
+                "username": "narges.sharif",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 30553008,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 30553008,
+                "monthlyXp": 0,
+                "name": "Eiji",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 921,
+                "username": "ehayashi",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 341716,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 341716,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/341716/2492d57wFA",
+                "totalXp": 894,
+                "username": "shriphani",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 17129513,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 17129513,
+                "monthlyXp": 0,
+                "name": "Bryan Klimt",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/17129513/M6ZMolQfsG",
+                "totalXp": 815,
+                "username": "klimt1",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 25399943,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 25399943,
+                "monthlyXp": 0,
+                "name": "Naoko Hirai",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 568,
+                "username": "naokohirai",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35395483,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35395483,
+                "monthlyXp": 0,
+                "name": "Masa Oishi",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35395483/C600AwDswy",
+                "totalXp": 530,
+                "username": "masa.oishi",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 55288191,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 55288191,
+                "monthlyXp": 0,
+                "name": "Andy Schlaikjer",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/55288191/KIde4lrtIt",
+                "totalXp": 371,
+                "username": "sagemintblue",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 30526,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 30526,
+                "monthlyXp": 0,
+                "name": "Jon",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/30526/GrZsTghV2O",
+                "totalXp": 285,
+                "username": "jhclark",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35375259,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35375259,
+                "monthlyXp": 0,
+                "name": "Miho Yamauchi",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35375259/NHwLZRapUE",
+                "totalXp": 272,
+                "username": "MihoYamauchi",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 11070545,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 11070545,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/11070545/th5LYFHMgP",
+                "totalXp": 258,
+                "username": "lilrex",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 36668506,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 36668506,
+                "monthlyXp": 0,
+                "name": "horiayako",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/36668506/D6YWZe2ebX",
+                "totalXp": 231,
+                "username": "horiayako",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 43090732,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 43090732,
+                "monthlyXp": 0,
+                "name": "Ryo",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 230,
+                "username": "rgonotsu",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35439352,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35439352,
+                "monthlyXp": 0,
+                "name": "Koji Hara",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 210,
+                "username": "kojingharang",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 514212,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 514212,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/514212/c4dQhY5Yzk",
+                "totalXp": 202,
+                "username": "mrimmaya",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 27299146,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 27299146,
+                "monthlyXp": 0,
+                "name": "Ryo Achiwa",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 201,
+                "username": "RyoAchiwa",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 605000,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 605000,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/605000/h3L2T9vc2O",
+                "totalXp": 182,
+                "username": "wammar",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35409168,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35409168,
+                "monthlyXp": 0,
+                "name": "Mie",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 163,
+                "username": "mieisland",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 3610195,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 3610195,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 154,
+                "username": "madananshul",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 23354487,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 23354487,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/23354487/dklAX93PdT",
+                "totalXp": 138,
+                "username": "aledden",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 549658425,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 549658425,
+                "monthlyXp": 0,
+                "name": "凯",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 131,
+                "username": "ph.ugEfTJ",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 42413105,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 42413105,
+                "monthlyXp": 0,
+                "name": "Kazuya Kawakami",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/42413105/lIRO_CW-_6",
+                "totalXp": 95,
+                "username": "KazuyaKawa",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "_thats_a_bingoさんがフォロー中",
+            "userId": 11169776,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 11169776,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/11169776/RXYdXWwSgb",
+                "totalXp": 65,
+                "username": "chelseasmile27",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35468518,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35468518,
+                "monthlyXp": 0,
+                "name": "Tetsuya Tokuhisa",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35468518/tIo_UgEL9c",
+                "totalXp": 39,
+                "username": "TetsuyaTokuhisa",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35399692,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35399692,
+                "monthlyXp": 0,
+                "name": "Yoshiharu Imamoto",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35399692/r8_XzGDBgQ",
+                "totalXp": 38,
+                "username": "imamotts",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35420223,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35420223,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 34,
+                "username": "nsasaki",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 8246039,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 8246039,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/8246039/BQQFCsA2Hc",
+                "totalXp": 34,
+                "username": "dipanjand",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "_thats_a_bingoさんがフォロー中",
+            "userId": 15435113,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 15435113,
+                "monthlyXp": 0,
+                "name": "Joe Cavanagh",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/15435113/hPxree6Zup",
+                "totalXp": 26,
+                "username": "JoeWithAHardJ",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35467551,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35467551,
+                "monthlyXp": 0,
+                "name": "Masanori Yoshino",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35467551/mbCHRSI_N8",
+                "totalXp": 25,
+                "username": "ymasa-tky",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 180155,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 180155,
+                "monthlyXp": 0,
+                "name": null,
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 22,
+                "username": "sachinagarwal25",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35374948,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35374948,
+                "monthlyXp": 0,
+                "name": "Yuki Izena Vandapel",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35374948/t56sc3rdTX",
+                "totalXp": 11,
+                "username": "yizena",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 189663,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 189663,
+                "monthlyXp": 0,
+                "name": "Daegun Won",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/189663/8QgzI-lvdH",
+                "totalXp": 10,
+                "username": "daegunw",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 41348325,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 41348325,
+                "monthlyXp": 0,
+                "name": "Masami",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/41348325/qzft2w-hIB",
+                "totalXp": 10,
+                "username": "mshiba64",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 2289,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 2289,
+                "monthlyXp": 0,
+                "name": "Mengqiu",
+                "picture": "https://s3.amazonaws.com/duolingo-images/avatar/default_2",
+                "totalXp": 10,
+                "username": "fourad",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 30119,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 30119,
+                "monthlyXp": 0,
+                "name": "Shu",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/30119/bHjimVK_YB",
+                "totalXp": 10,
+                "username": "chibicode",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35387892,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35387892,
+                "monthlyXp": 0,
+                "name": "Kota Shirakura",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35387892/M0AmWthkmX",
+                "totalXp": 10,
+                "username": "KotaShirakura",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35442680,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35442680,
+                "monthlyXp": 0,
+                "name": "Karen Lee Ping",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35442680/uR6qVQewXS",
+                "totalXp": 10,
+                "username": "scsnlp",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 14459086,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 14459086,
+                "monthlyXp": 0,
+                "name": "Koichiro Suzuki",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/14459086/b-Isdz1tBl",
+                "totalXp": 0,
+                "username": "chewy412",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 35127572,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 35127572,
+                "monthlyXp": 0,
+                "name": "Takanori Ono",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/35127572/V3wpSOFPdV",
+                "totalXp": 0,
+                "username": "tono5652",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 2400746,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 2400746,
+                "monthlyXp": 0,
+                "name": "Richard Wang",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/2400746/LchmpQ55C5",
+                "totalXp": 0,
+                "username": "rcwang",
+                "weeklyXp": 0
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 1,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 538290682,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 538290682,
+                "monthlyXp": 0,
+                "name": "嶋英樹",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/538290682/fNB-Q4Rmpq",
+                "totalXp": 0,
+                "username": "CfBE13",
+                "weeklyXp": 0
+            }
+        }
+    ],
+    "status": "ready"
+}

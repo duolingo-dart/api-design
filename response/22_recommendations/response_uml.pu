@@ -1,0 +1,42 @@
+@startjson "Recommendations"
+{
+    "cursor": null,
+    "recommendations": [
+        {
+            "recommendationReason": "follow_back",
+            "recommendationScore": 5,
+            "recommendationString": "あなたをフォロー中",
+            "userId": 173697658,
+            "userSummary": {
+                "hasPlus": false,
+                "hasRecentActivity15": false,
+                "id": 173697658,
+                "monthlyXp": 517,
+                "name": "Bernardes",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/173697658/uDwCsXMpTt",
+                "totalXp": 30419,
+                "username": "IgorEbaBernardes",
+                "weeklyXp": 14
+            }
+        },
+        {
+            "recommendationReason": "mutual",
+            "recommendationScore": 3,
+            "recommendationString": "Hideki Shimaさんがフォロー中",
+            "userId": 839696112,
+            "userSummary": {
+                "hasPlus": true,
+                "hasRecentActivity15": false,
+                "id": 839696112,
+                "monthlyXp": 4866,
+                "name": "Tomoko",
+                "picture": "https://duolingo-images.s3.amazonaws.com/avatars/839696112/i6Ahc2Gswt",
+                "totalXp": 28291,
+                "username": "Tomoko102194",
+                "weeklyXp": 549
+            }
+        }
+    ],
+    "status": "ready"
+}
+@endjson
