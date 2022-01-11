@@ -1,0 +1,121 @@
+@startjson "Friend Search"
+{
+    "page": 1,
+    "num_results": 773934,
+    "more": true,
+    "users": [
+        {
+            "username": "A.-.A.-.",
+            "learning_language": "en",
+            "fullname": "A - A -.",
+            "id": 433800710,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/433800710/UN5XlI8T0U"
+        },
+        {
+            "username": "A.-A",
+            "learning_language": "en",
+            "fullname": "A A",
+            "id": 48901688,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/48901688/-P8YWyg7ET"
+        },
+        {
+            "username": "A.............A",
+            "learning_language": "en",
+            "fullname": "A A",
+            "id": 567769453,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        },
+        {
+            "username": "A.....A",
+            "learning_language": "en",
+            "fullname": "A A",
+            "id": 174774744,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        },
+        {
+            "username": "A.......a",
+            "learning_language": "en",
+            "fullname": "A a",
+            "id": 561824155,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        },
+        {
+            "username": "a.-.-.a",
+            "learning_language": "en",
+            "fullname": "a - - a",
+            "id": 579762683,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/579762683/JEI_Deecyd"
+        },
+        {
+            "username": "A-a-a-a-a-1",
+            "learning_language": "en",
+            "fullname": "A-a-a-a-a-1",
+            "id": 734518774,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/734518774/HgBbOFax11"
+        },
+        {
+            "username": "A-A-A2",
+            "learning_language": "en",
+            "fullname": "A - A - A",
+            "id": 345788765,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        },
+        {
+            "username": "A-A-A1",
+            "learning_language": "en",
+            "fullname": "A-A-A",
+            "id": 197120166,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        },
+        {
+            "username": "a-a-a7382",
+            "learning_language": "de",
+            "fullname": "a-a-a",
+            "id": 363993556,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/363993556/tVQYQqOurX"
+        },
+        {
+            "username": "a...a.....",
+            "learning_language": "en",
+            "fullname": "a.",
+            "id": 226665495,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/226665495/jeQTnxy7ie"
+        },
+        {
+            "username": "A..............A",
+            "learning_language": "ko",
+            "fullname": "A",
+            "id": 645288802,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/645288802/KA6FG-H_E9"
+        },
+        {
+            "username": "A-A.1",
+            "learning_language": "en",
+            "fullname": "A-A.",
+            "id": 570177409,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        },
+        {
+            "username": "A-to-A",
+            "learning_language": "en",
+            "fullname": "A A",
+            "id": 680774880,
+            "avatar": "//duolingo-images.s3.amazonaws.com/avatars/680774880/AkatsQi1Ia"
+        },
+        {
+            "username": "Sch-a-a-a",
+            "learning_language": "ro",
+            "fullname": "Sch-a-a-a",
+            "id": 424539719,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        },
+        {
+            "username": "Sasha-a-a-",
+            "learning_language": "en",
+            "fullname": "Sasha-a-a-a-a",
+            "id": 117897693,
+            "avatar": "//s3.amazonaws.com/duolingo-images/avatar/default_2"
+        }
+    ]
+}
+@endjson
