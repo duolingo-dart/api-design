@@ -1,4 +1,4 @@
-@startjson "Forum Comments"
+@startjson "Forum Comment"
 {
     "admin_user": false,
     "all_topics": [
